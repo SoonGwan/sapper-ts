@@ -1,0 +1,4 @@
+*.svelte linguist-detectable=true
+*.ts linguist-detectable=false
+*.js linguist-detectable=false
+
